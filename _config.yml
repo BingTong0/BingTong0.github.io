@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Bing Tong \n 童冰"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Guangzhou & Hangzhou, China"
-  employer         : "CreatLink"
+  employer         : #"CreateLink"
   uri              : 
   email            : "btong799@connect.hkust-gz.edu.cn" 
 
