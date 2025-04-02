@@ -17,10 +17,10 @@ My research interests lie in distributed graph databases, distributed graph algo
   VLDB 2025 EA&B Track 
  
 - GalaxyView: Property Graph Transformation for Materialized View Generation <br>
-  ***Bing Tong**, Jianheng Tang, Yan Zhou*, Chen Zhang, Jia Li*, Lei Chen* <br>
+  ***Bing Tong**, Jianheng Tang, Yan Zhou, Chen Zhang, Jia Li, Lei Chen* <br>
   ICDE 2025 Industrial Track
 
 - Galaxybase: A High Performance Native Distributed Graph Database for HTAP <br>
   [[paper]](https://vldb.org/pvldb/volumes/17/paper/Galaxybase%3A%20A%20High%20Performance%20Native%20Distributed%20Graph%20Database%20for%20HTAP)[[website]](https://www.galaxybase.com/)<br>
-  ***Bing Tong**, Yan Zhou*, Chen Zhang, Jianheng Tang, Jing Tang, Leihong Yang, Qiye Li, Manwu Lin, Zhongxin Bao, Jia Li*, Lei Chen* <br>
+  ***Bing Tong**, Yan Zhou, Chen Zhang, Jianheng Tang, Jing Tang, Leihong Yang, Qiye Li, Manwu Lin, Zhongxin Bao, Jia Li, Lei Chen* <br>
   VLDB 2024 Industrial Track
