@@ -18,7 +18,7 @@ My research interests lie in distributed graph databases, distributed graph algo
 
 - GalaxyView: Property Graph Transformation for Materialized View Generation <br>
   ***Bing Tong**, Jianheng Tang, Yan Zhou, Chen Zhang, Jia Li, Lei Chen* <br>
-  [[paper]](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e470/26FZCE2FhN6)
+  [[paper]](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e470/26FZCE2FhN6)<br>
   ICDE 2025 Industrial Track
 
 - Galaxybase: A High Performance Native Distributed Graph Database for HTAP <br>
