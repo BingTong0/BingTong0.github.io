@@ -12,6 +12,10 @@ I am a second-year PhD student in the joint program between [CreateLink](https:/
 My research interests lie in distributed graph databases, distributed graph algorithms, and graph benchmarking, with a focus on improving efficiency, scalability, and performance evaluation in large-scale graph processing systems.
 
 ## Publications
+- GalaxyWeaver: Autonomous Table-to-Graph Conversion and Schema Optimization with Large Language Models <br>
+  ***Bing Tong**, Yan Zhou, Chen Zhang, Jianheng Tang, Jia Li, Lei Chen* <br>
+  VLDB 2025 Industrial Track
+
 - The LDBC Financial Benchmark: Transaction Workload <br>
   *Shipeng Qi, **Bing Tong**, Jiatao Hu, Heng Lin, Yue Pang, and 16 authors* <br>
   VLDB 2025 EA&B Track 
