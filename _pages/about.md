@@ -20,7 +20,7 @@ My research interests lie in distributed graph databases, distributed graph algo
 - The LDBC Financial Benchmark: Transaction Workload <br>
   *Shipeng Qi, **Bing Tong**, Jiatao Hu, Heng Lin, Yue Pang, and 16 authors* <br>
   [[paper]](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf)<br>
-  VLDB 2025 EA&B **Track Best Paper Runner Up Award**
+  VLDB 2025 EA&B Track  **Best Paper Runner Up Award**
   
 - GalaxyView: Property Graph Transformation for Materialized View Generation <br>
   ***Bing Tong**, Jianheng Tang, Yan Zhou, Chen Zhang, Jia Li, Lei Chen* <br>
