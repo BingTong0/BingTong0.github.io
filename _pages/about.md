@@ -14,12 +14,14 @@ My research interests lie in distributed graph databases, distributed graph algo
 ## Publications
 - GalaxyWeaver: Autonomous Table-to-Graph Conversion and Schema Optimization with Large Language Models <br>
   ***Bing Tong**, Yan Zhou, Chen Zhang, Jianheng Tang, Jia Li, Lei Chen* <br>
+  [[paper]](https://www.vldb.org/pvldb/vol18/p5100-tong.pdf)<br>
   VLDB 2025 Industrial Track
 
 - The LDBC Financial Benchmark: Transaction Workload <br>
   *Shipeng Qi, **Bing Tong**, Jiatao Hu, Heng Lin, Yue Pang, and 16 authors* <br>
-  VLDB 2025 EA&B Track 
-
+  [[paper]](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf)<br>
+  VLDB 2025 EA&B **Track Best Paper Runner Up Award**
+  
 - GalaxyView: Property Graph Transformation for Materialized View Generation <br>
   ***Bing Tong**, Jianheng Tang, Yan Zhou, Chen Zhang, Jia Li, Lei Chen* <br>
   [[paper]](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e470/26FZCE2FhN6)<br>
