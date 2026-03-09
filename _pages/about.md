@@ -22,7 +22,7 @@ My research interests mainly focus on graph data management and large language m
 ### 2026
 - **GalaxyRAG: Graph Retrieval-Augmented Generation for Enterprise Knowledge Systems**  
   ***Bing Tong**, Yan Zhou, Chen Zhang, Zhaojie Yin, Jia Li, Lei Chen*  
-  VLDB 2026 Industry Track
+  ICDE 2026 Industrial Track
 
 ### 2025
 - **GalaxyWeaver: Autonomous Table-to-Graph Conversion and Schema Optimization with Large Language Models**  
