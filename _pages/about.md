@@ -33,8 +33,7 @@ My research interests mainly focus on graph data management and large language m
 - **The LDBC Financial Benchmark: Transaction Workload**  
   *Shipeng Qi, **Bing Tong**, Jiatao Hu, Heng Lin, Yue Pang, and 16 authors*  
   [[paper]](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf)  
-  VLDB 2025 EA&B Track  
-  **Best Paper Runner-Up Award**
+  VLDB 2025 EA&B Track · <span style="color: #c0392b;">Best Paper Runner-Up Award</span>
 
 - **GalaxyView: Property Graph Transformation for Materialized View Generation**  
   ***Bing Tong**, Jianheng Tang, Yan Zhou, Chen Zhang, Jia Li, Lei Chen*  
